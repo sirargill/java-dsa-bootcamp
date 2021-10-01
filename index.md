@@ -1,8 +1,4 @@
-# Java DSA Bootcamp | (👷🏻‍♂️ under maintainance ⚠️)
-
-## Syllabus [here](syllabus.md)
-
-### Visit Kunal's [Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"}
+# Java DSA Bootcamp | [Syllabus](syllabus.md) | [Course Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"}
 
 ## Lecture Notes / Code 👨🏻‍💻
 
