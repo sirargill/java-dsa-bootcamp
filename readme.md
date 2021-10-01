@@ -1,5 +1,5 @@
 # [Java DSA Bootcamp Blog 🚀](https://thatbeautifuldream.github.io/java-dsa-bootcamp/) 
-### (⚠️ now accepting contributors 👷🏻‍♂️)
+### (⚠️ accepting contributors 👷🏻‍♂️)
 
 Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) course repository : [`☕️ Java DSA Bootcamp`](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
