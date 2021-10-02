@@ -1,4 +1,4 @@
-# [Java DSA Bootcamp ☕️](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"} | [Syllabus](syllabus.md)
+# [Java DSA Bootcamp ☕️](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"} | [Syllabus 📖](syllabus.md)
 
 ## Lecture Notes / Code 👨🏻‍💻
 
