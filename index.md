@@ -1,4 +1,4 @@
-# Java DSA Bootcamp | [Syllabus](syllabus.md) | [Course Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"}
+# [Java DSA Bootcamp ☕️](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"} | [Syllabus](syllabus.md)
 
 ## Lecture Notes / Code 👨🏻‍💻
 
@@ -7,7 +7,7 @@
 - Functions / Methods [Notes](lectures/methods.md)
 - Arrays [Notes](lectures/arrays.md)
 
-## Lectures By ☕️
+## Lectures By ✍️
 
 - [Kunal Kushwaha](https://github.com/kunal-kushwaha){:target="_blank"}
 
@@ -26,7 +26,7 @@
 - 11-Math [`Problem`](assignments/11-math.md) [`Solution`](solutions/11-math.md)
 
 
-## Assignment Author  ✍️
+## Assignment Author ✍️
 
 - [Milind Mishra](https://milind.bio.link){:target="_blank"}
 
