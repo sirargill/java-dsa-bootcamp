@@ -1,4 +1,4 @@
-# Methods / Functions ☕️
+# [🏠](https://thatbeautifuldream.github.io/java-dsa-bootcamp/) Methods / Functions ☕️
 
 ## ChangeValue
 

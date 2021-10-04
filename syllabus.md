@@ -1,4 +1,4 @@
-# Complete Java + DSA Bootcamp Syllabus
+# [🏠](https://thatbeautifuldream.github.io/java-dsa-bootcamp/) Complete Java + DSA Bootcamp Syllabus
 
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
     - [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
