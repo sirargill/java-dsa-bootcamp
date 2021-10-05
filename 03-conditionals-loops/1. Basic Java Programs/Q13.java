@@ -6,7 +6,7 @@ public class area_Rhombus {
         float height= in.nextFloat();
         System.out.println("enter the width of Rhombus: ");
         Float width= in.nextFloat();
-        System.out.println("ans is: " + ((height*width)/2));
+        System.out.println("ans is: " + (height*width));
         in.close()
     }
 }
